@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jayantbansal21
+- 👋 Hi, I’m Jayant Bansal
 - 👀 I’m interested in any coding stuff , new tech
 - 🌱 I’m currently learning java and android development
 - 📫 How to reach me Discord - ANONYMOUS#7967
